@@ -22,7 +22,7 @@ The Olympic Data Analyzer is a tool built using Streamlit and Pandas to analyze 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MysticAakash07/olympic-data-analysis.git
+   git clone [https://github.com/MysticAakash07/olympic-data-analysis.git](https://github.com/MysticAakash07/Olympic_Data_Analysis.git)
 Navigate to the project directory:
 
 bash
