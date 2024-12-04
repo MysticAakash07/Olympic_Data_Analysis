@@ -1,8 +1,4 @@
 
-Certainly! Below is a template for a README file that you can use for your Olympic Data Analyzer GitHub repository. Feel free to modify it based on your specific details and requirements.
-
-markdown
-Copy code
 # Olympic Data Analyzer
 
 ## Overview
@@ -26,7 +22,7 @@ The Olympic Data Analyzer is a tool built using Streamlit and Pandas to analyze 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/olympic-data-analyzer.git
+   git clone https://github.com/MysticAakash07/olympic-data-analysis.git
 Navigate to the project directory:
 
 bash
